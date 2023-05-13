@@ -1,5 +1,5 @@
 # Iss-Overhead-Notifier
-API Endpoints and API Parameters
+API Endpoints and API Parameters and used smtp library for emailing.
 
 This is the international space station and it floats high above in the sky and it circles earth many, many times a day. And what we're going to try to do is we're going to try and track where the ISS
 is currently at in the sky. And at the time point
